@@ -1,4 +1,4 @@
-# Speex_STM32F407_UDA1380
+# Speex STM32F407 UDA1380
 Speex: A Free Codec For Free Speech.
 STM32f407 UDA1380
 
