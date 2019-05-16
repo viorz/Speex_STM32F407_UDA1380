@@ -1,6 +1,7 @@
 # Speex_STM32F407_UDA1380
 Speex: A Free Codec For Free Speech.
 STM32f407 UDA1380
+
 Vocoder with bitrate 2Kb/s using speex codec for speech. Transmit and recieve data to uart.
 
 Generate progect in cubeMX speex_preproc_uart.ioc
